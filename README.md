@@ -1,1 +1,1 @@
-# Learning project of 15 Puzzle game to learn Swing lib
+# Learning project of 15 Puzzle game to study Swing lib
